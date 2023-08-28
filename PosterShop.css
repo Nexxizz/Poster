@@ -1,0 +1,16 @@
+#poster {
+    position: absolute;
+    top: 25%;
+    left: 33.33%;
+    width: 33.33%;
+    z-index: 99;
+}
+
+#zimmer {
+    width: 100%;
+}
+
+
+div {
+    position: relative;
+}
